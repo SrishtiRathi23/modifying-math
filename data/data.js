@@ -2,14 +2,14 @@
 const mathematicians = [
   {
     id: 1,
-    name: "Isaac Newton",
-    contribution: "Developed calculus and formulated the laws of motion.",
+    name: "Bhaskara I",
+    contribution: "Introduced sine approximation and promoted the decimal system.",
     image: "assets/images/newton.jpg"
   },
   {
     id: 2,
-    name: "Albert Einstein",
-    contribution: "Developed the theory of relativity.",
+    name: "Aryabhata",
+    contribution: "Pioneered zero & decimal system.",
     image: "assets/images/einstein.jpg"
   },
   {
